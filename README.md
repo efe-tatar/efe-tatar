@@ -10,7 +10,7 @@ scratch, and to measure everything.
 
 - **[transformer-pytorch](https://github.com/efe-tatar/transformer-pytorch)**
   Llama-style LLM (100M) pretrained from scratch on 3B FineWeb-Edu tokens.
-  HellaSwag 27.7% vs 29.6% for GPT-2 124M · published on Hugging Face.
+  HellaSwag 27.7% vs 29.6% for GPT-2 124M · published on Hugging Face. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/efe-tatar/transformer-pytorch/blob/main/colab/playground.ipynb)
 
 - **[yolo-edge-quantization](https://github.com/efe-tatar/yolo-edge-quantization)**
   YOLO-style detector from scratch in PyTorch on 54 traffic-sign classes.
