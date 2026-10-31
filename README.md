@@ -10,11 +10,11 @@ scratch, and to measure everything.
 
 - **[transformer-pytorch](https://github.com/efe-tatar/transformer-pytorch)**
   Llama-style LLM (100M) pretrained from scratch on 3B FineWeb-Edu tokens.
-  HellaSwag 27.7% vs 29.6% for GPT-2 124M · published on Hugging Face · 113 tests.
+  HellaSwag 27.7% vs 29.6% for GPT-2 124M · published on Hugging Face.
 
 - **[yolo-edge-quantization](https://github.com/efe-tatar/yolo-edge-quantization)**
   YOLO-style detector from scratch in PyTorch on 54 traffic-sign classes.
-  mAP@0.5 0.40 without pretraining · ONNX export · CPU/edge quantization in progress · 106 tests.
+  mAP@0.5 0.40 without pretraining · ONNX export · CPU/edge quantization in progress.
 
 #### Stack
 PyTorch · Hugging Face · Python · C · Docker · FastAPI · Git
